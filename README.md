@@ -14,7 +14,7 @@
 ### Pollen Grain Classification
 A machine learning project built with Flask to classify pollen grains with high accuracy.
 
-[Check it out on my GitHub!](#) <!-- Replace # with actual repo link if available -->
+[Check it out on my GitHub!](https://github.com/venkatabharathdivi/pollen-grain-classification.git)
 
 ## 📫 Connect with Me
 
